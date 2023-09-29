@@ -5,8 +5,8 @@
 </p>
 <div>
   <a href="">
-  <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=joaogabriel2705&anuraghazra&show_icons=true&theme=radical">  
-  <img height=150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabriel2705&hide_progress=true&theme=radical">  
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=joaogabriel2705&anuraghazra&show_icons=true&theme=radical">  
+  <img height=180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabriel2705&hide_progress=true&theme=radical">  
 </div>
 
 <p align="start">
