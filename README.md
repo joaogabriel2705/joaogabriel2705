@@ -5,8 +5,8 @@
 </p>
 <div>
   <a href="">
-  <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=joaogabriel2705&anuraghazra&show_icons=true&theme=radical">  
-  <img height=200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabriel2705&hide_progress=true&theme=radical">  
+  <img height="100rem" src="https://github-readme-stats.vercel.app/api?username=joaogabriel2705&anuraghazra&show_icons=true&theme=radical">  
+  <img height=100rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabriel2705&hide_progress=true&theme=radical">  
 </div>
 
 <p align="start">
@@ -22,4 +22,4 @@
   <a><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/seu-usuário-aqui/joaogabriel2705/blob/output/github-contribution-grid-snake.svg)
