@@ -1,5 +1,6 @@
 ### Hello There! 👋
 
+- 🌱 I'm currently studying: JS && Java
 <p>
   Olá! me chamo João Gabriel - Atualmente sou apenas um estudante, que está buscando aprender cada vez mais no mundo de tecnologia!
 </p>
