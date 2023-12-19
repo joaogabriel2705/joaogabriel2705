@@ -12,9 +12,24 @@
   <img height=180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogabriel2705&hide_progress=true&theme=radical">  
 </div>
 
+- Front-end
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,sass,java,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass" />
+  </a>
+</p>
+
+-Back-end
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring" />
+  </a>
+</p>
+
+-Ferramentas
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,windows" />
   </a>
 </p>
 
