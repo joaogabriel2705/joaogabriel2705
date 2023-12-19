@@ -24,7 +24,7 @@
 - Back-end
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven" />
   </a>
 </p>
 
