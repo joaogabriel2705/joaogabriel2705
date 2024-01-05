@@ -34,11 +34,3 @@
     <img src="https://skillicons.dev/icons?i=git,github,vscode,window" />
   </a>
 </p>
-
-<hr>
-<div style=display: inline_block><br>
-  <a href="malito:jgquadros2005@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/apenas_um_jaum/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-mendes-de-quadros-67929a245/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
-</div>
-
