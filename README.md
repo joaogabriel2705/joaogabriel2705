@@ -4,7 +4,7 @@
   Olá! me chamo João Gabriel - Atualmente sou apenas um estudante, que está buscando aprender cada vez mais no mundo de tecnologia!
 </p>
 <p>
-  - 🌱 Atualmente estou estudando: PHP && Java
+  - 🌱 Atualmente estou estudando: Java
 </p>
 <div>
   <a href="">
