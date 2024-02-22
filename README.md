@@ -17,14 +17,14 @@
 - Front-end
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,sass,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass" />
   </a>
 </p>
 
 - Back-end
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,java,spring,maven" />
+    <img src="https://skillicons.dev/icons?i=java,maven" />
   </a>
 </p>
 
