@@ -4,7 +4,7 @@
   Olá! me chamo João Gabriel - Atualmente sou apenas um estudante, que está buscando aprender cada vez mais no mundo de tecnologia!
 </p>
 <p>
-  - 🌱 Atualmente estou estudando: PHP e Laravel
+  - 🌱 Atualmente estou estudando: PHP
 </p>
 <div>
   <a href="">
@@ -24,7 +24,7 @@
 - Back-end
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel" />
+    <img src="https://skillicons.dev/icons?i=php" />
   </a>
 </p>
 
