@@ -31,7 +31,7 @@
 - Ferramentas
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,pnpm,vercel,vite,vscode,window" />
+    <img src="https://skillicons.dev/icons?i=git,github,notion,pnpm,vercel,vite,vscode,window" />
   </a>
 </p>
 
