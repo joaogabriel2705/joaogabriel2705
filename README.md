@@ -4,7 +4,7 @@
   Olá! me chamo João Gabriel - Atualmente sou apenas um estudante, que está buscando aprender cada vez mais no mundo de tecnologia!
 </p>
 <p>
-  - 🌱 Atualmente estou estudando: Java & Javascript
+  - 🤓 Atualmente estou estudando: Java
 </p>
 <div>
   <a href="">
@@ -38,6 +38,6 @@
 - Interesses
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,maven,spring,ts,adonis,nestjs,vue,nuxt,tailwind" />
+    <img src="https://skillicons.dev/icons?i=kotlin,maven,spring,ts,vue,nuxt,angular,tailwind,php,laravel" />
   </a>
 </p>
