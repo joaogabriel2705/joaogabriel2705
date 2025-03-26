@@ -4,7 +4,7 @@
   Olá! me chamo João Gabriel - Atualmente sou apenas um estudante, que está buscando aprender cada vez mais no mundo de tecnologia!
 </p>
 <p>
-  - 🤓 Atualmente estou estudando: Java
+  - 🤓 Atualmente estou estudando: PHP && Linux
 </p>
 <div>
   <a href="">
@@ -24,20 +24,20 @@
 - Back-end
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=php" />
   </a>
 </p>
 
 - Ferramentas
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,notion,pnpm,vercel,vite,vscode,window" />
+    <img src="https://skillicons.dev/icons?i=git,github,notion,pnpm,vercel,vite,vscode,windows,linux" />
   </a>
 </p>
 
 - Interesses
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,maven,spring,ts,alpinejs,vue,nuxt,angular,tailwind,php,laravel,firebase" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,maven,spring,ts,alpinejs,vue,vuetify,nuxt,angular,tailwind,laravel,symfony,firebase" />
   </a>
 </p>
