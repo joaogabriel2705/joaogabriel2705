@@ -17,7 +17,7 @@
 - Front-end
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,sass" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass,tailwind" />
   </a>
 </p>
 
@@ -38,6 +38,6 @@
 - Interesses
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,alpinejs,react,nextjs,materialui,angular,nestjs,tailwind,laravel,symfony,firebase,mongodb" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,alpinejs,react,nextjs,materialui,angular,symfony,go,firebase,mongodb" />
   </a>
 </p>
