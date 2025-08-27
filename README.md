@@ -31,13 +31,13 @@
 - Ferramentas
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,notion,npm,vercel,vite,vscode,windows,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,notion,npm,vercel,vite,vscode,windows" />
   </a>
 </p>
 
 - Interesses
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,alpinejs,react,nextjs,materialui,angular,symfony,go,firebase,mongodb" />
+    <img src="https://skillicons.dev/icons?i=java,spring,kotlin,ts,alpinejs,react,nextjs,materialui,angular,symfony,go,firebase,mongodb" />
   </a>
 </p>
