@@ -38,6 +38,6 @@
 - Interesses
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,kotlin,ts,alpinejs,react,nextjs,materialui,angular,symfony,go,firebase,mongodb" />
+    <img src="https://skillicons.dev/icons?i=ts,alpinejs,react,nextjs,materialui,vue,nuxt,python,symfony,go,firebase,mongodb" />
   </a>
 </p>
